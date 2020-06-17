@@ -1,0 +1,38 @@
+/*#coding-mat-card {
+  width: 25%;
+}*/
+.header{
+  text-align: center;
+}
+
+.workArea{
+  display: flex;
+  flex-direction: row;
+}
+
+.coding{
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+
+  min-width: 25%;
+}
+
+.tables{
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+
+}
+
+.decoding{
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  min-width: 25%;
+
+}
+
+.formDiv{
+
+}
